@@ -1,77 +1,7 @@
-const timelineData = [
-  {
-    step: "[01]",
-    title: "Meses de Dolor",
-    body:
-      "Hubo momentos en los que no sabía si iba a volver a caminar. Meses de dolor constante. De estar tirado. De depender. De no reconocerme."
-  },
-  {
-    step: "[02]",
-    title: "Me Cerré",
-    body:
-      "No sabía cómo procesarlo y, en lugar de pedir ayuda, hice lo contrario. No quería que nadie me viera débil. Levanté una pared."
-  },
-  {
-    step: "[03]",
-    title: "Lo Que Rompí",
-    body:
-      "Lastimé a personas que estaban ahí para mí. Me volví alguien difícil, amargado, cerrado. Las consecuencias no desaparecen solo porque tengas una razón."
-  },
-  {
-    step: "[04]",
-    title: "El Refugio",
-    body:
-      "Mientras todo lo demás se caía, el trabajo se mantenía firme. Fue enfoque, disciplina y necesidad. Ahí me refugié cuando todo lo demás no alcanzaba."
-  }
-];
-
-const techCards = [
-  {
-    tag: "[FONDO]",
-    title: "Tocar Fondo",
-    body: "Hubo momentos donde pensé que ya no se podía caer más bajo. Siempre se podía. Y eso se repitió más de una vez."
-  },
-  {
-    tag: "[DECISION]",
-    title: "Construir Otra Versión",
-    body: "No fue un momento épico ni una revelación. Fue una decisión: dejar de aferrarme a una versión de mí que ya no existía."
-  },
-  {
-    tag: "[REGRESO]",
-    title: "Volví",
-    body: "Hoy puedo decir algo que parecía imposible: volví a caminar, volví a correr, volví a jugar fútbol. No igual. No como antes. Pero volví."
-  }
-];
-
-const timelineContainer = document.querySelector("#timeline-items");
-const techGrid = document.querySelector("#tech-grid");
 const themeToggle = document.querySelector(".theme-toggle");
 const themeState = document.querySelector(".theme-toggle__state");
 const root = document.body;
 const reducedMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
-
-function renderCard({ step, title, body }) {
-  return `
-    <article class="timeline-card">
-      <span class="timeline-card__step type-reveal">${step}</span>
-      <h3 class="type-reveal">${title}</h3>
-      <p class="type-reveal">${body}</p>
-    </article>
-  `;
-}
-
-function renderTechCard({ tag, title, body }) {
-  return `
-    <article class="tech-card">
-      <span class="tech-card__tag type-reveal">${tag}</span>
-      <h3 class="type-reveal">${title}</h3>
-      <p class="type-reveal">${body}</p>
-    </article>
-  `;
-}
-
-timelineContainer.innerHTML = timelineData.map(renderCard).join("");
-techGrid.innerHTML = techCards.map(renderTechCard).join("");
 
 const typeRevealNodes = [...document.querySelectorAll(".type-reveal")];
 
