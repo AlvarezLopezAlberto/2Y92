@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+  <html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta
+    name="description"
+    content="Carta digital narrativa con estética OS experimental, scroll inmersivo y glitch minimalista."
+  >
+  <title>Experimental OS Narrative</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body data-theme="dark">
+  <div class="app-shell">
+    <div class="noise-layer" aria-hidden="true"></div>
+    <div class="scanlines" aria-hidden="true"></div>
+    <div class="focus-blur-layer" aria-hidden="true"></div>
+    <div class="focus-mask-layer" aria-hidden="true"></div>
+    <div class="focus-pointer" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <div class="topbar__meta">
+        <span class="system-dot"></span>
+        <span>[00.00_alpha]</span>
+        <span>[00.00_omega]</span>
+      </div>
+
+      <button
+        class="theme-toggle"
+        type="button"
+        aria-label="Cambiar entre modo oscuro y claro"
+        aria-pressed="false"
+      >
+        <span class="theme-toggle__label">MODE</span>
+        <span class="theme-toggle__state">DARK</span>
+      </button>
+    </header>
+
+    <main class="viewport">
+      <section class="hero reveal" data-scale-zone>
+        <div class="hero__rail">
+          <span class="hero__rail-line"></span>
+          <span class="hero__rail-line hero__rail-line--short"></span>
+        </div>
+
+        <div class="hero__intro">
+          <p class="eyebrow line-reveal">PERSONAL LOG / RECOVERY SEQUENCE / MOBILE-FIRST</p>
+          <h1 class="hero__title glitch-text line-reveal glitch-reveal" data-text="DOS AÑOS DESPUÉS">DOS AÑOS DESPUÉS</h1>
+          <p class="hero__subtitle type-reveal">archivo personal / reconstrucción / memoria activa</p>
+        </div>
+
+        <div class="hero__metadata">
+          <div class="line-reveal">
+            <span class="metadata__label">EVENT</span>
+            <span class="metadata__value type-reveal">25.04.2024</span>
+          </div>
+          <div class="line-reveal">
+            <span class="metadata__label">STATE</span>
+            <span class="metadata__value type-reveal">reconstruction_active</span>
+          </div>
+          <div class="line-reveal">
+            <span class="metadata__label">OUTPUT</span>
+            <span class="metadata__value type-reveal">de pie / en continuación</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="reading-block reveal" data-scale-zone>
+        <div class="section-head">
+          <span class="section-head__index line-reveal">01</span>
+          <h2 class="line-reveal glitch-reveal" data-glitch="El Quiebre">El Quiebre</h2>
+        </div>
+        <p class="type-reveal">
+          Hay fechas que no se olvidan. La mía es el 25 de abril de 2024. Ese día no solo
+          me fracturé la cadera. Ese día cambió todo.
+        </p>
+        <p class="type-reveal">
+          No fue una caída épica ni una jugada memorable. Nunca fui ese tipo de jugador.
+          Siempre fui más de ganas que de talento, más de insistir que de brillar. Pero el
+          fútbol era mío. Era el espacio donde me soltaba, donde me desestresaba, donde
+          simplemente era yo. Y en un segundo, eso desapareció.
+        </p>
+      </section>
+
+      <section class="highlight reveal" data-scale-zone>
+        <div class="highlight__label line-reveal">[IMPACT_REGISTER]</div>
+        <p class="highlight__copy type-reveal">
+          Cuando te rompes algo así, no solo duele el cuerpo. Duele la cabeza. Hubo
+          momentos en los que no sabía si iba a volver a caminar.
+        </p>
+      </section>
+
+      <section class="timeline reveal">
+        <div class="section-head">
+          <span class="section-head__index line-reveal">02</span>
+          <h2 class="line-reveal glitch-reveal" data-glitch="Secuencia Interna">Secuencia Interna</h2>
+        </div>
+        <div class="timeline__line" aria-hidden="true"></div>
+        <div class="timeline__items" id="timeline-items"></div>
+      </section>
+
+      <section class="reading-block reading-block--dense reveal" data-scale-zone>
+        <div class="section-head">
+          <span class="section-head__index line-reveal">03</span>
+          <h2 class="line-reveal glitch-reveal" data-glitch="Lo Que Queda">Lo Que Queda</h2>
+        </div>
+        <p class="type-reveal">
+          No todo se recupera. Hay errores que se quedan. Hay relaciones que no regresan.
+          Hay versiones de ti que ya no existen.
+        </p>
+        <p class="type-reveal">
+          Pero también hay algo que sí permanece: la capacidad de reconstruirte. Siempre he
+          sido alguien reservado. Nunca me ha gustado exponer mi vida. Pero esto no quería
+          seguirlo guardando, porque esto también soy yo.
+        </p>
+        <div class="tech-grid" id="tech-grid"></div>
+      </section>
+
+      <section class="highlight highlight--terminal reveal">
+        <div class="highlight__label line-reveal">[TODAY_STATE]</div>
+        <p class="highlight__copy type-reveal">
+          Hoy me siento bien. Después de dos años, puedo decir que le di la vuelta. Que
+          salí de ahí. No perfecto. No intacto. Pero de pie.
+        </p>
+        <div class="terminal-row">
+          <span class="terminal-row__prompt type-reveal">continuation.signal</span>
+          <span class="terminal-row__typing type-reveal">esto no es un cierre</span>
+        </div>
+      </section>
+
+      <section class="footer-note reveal">
+        <div class="footer-note__line"></div>
+        <p class="type-reveal">[fracture_log].........[ARCHIVED]</p>
+        <p class="type-reveal">[return_protocol]......[ACTIVE]</p>
+        <p class="type-reveal">[continuation_mode]....[01]</p>
+      </section>
+    </main>
+  </div>
+
+  <script src="./script.js" defer></script>
+</body>
+</html>
