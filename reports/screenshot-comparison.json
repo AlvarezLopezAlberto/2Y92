@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01-initial-loading.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 9181,
+    "localBytes": 8941
+  },
+  {
+    "file": "02-hero-portal.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 625320,
+    "localBytes": 627228
+  },
+  {
+    "file": "03-story-scroll.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 627740,
+    "localBytes": 629059
+  },
+  {
+    "file": "04-sound-toggle.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 611394,
+    "localBytes": 612801
+  },
+  {
+    "file": "05-menu.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 4133,
+    "localBytes": 4536
+  },
+  {
+    "file": "06-heart-customizer.png",
+    "status": "captured-for-manual-visual-review",
+    "remoteBytes": 626290,
+    "localBytes": 624542
+  }
+]

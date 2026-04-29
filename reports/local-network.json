@@ -1,0 +1,1139 @@
+[
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/",
+    "resourceType": "document",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/entry.CIFBCrbr.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/default.ClAWie6-.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/preloader.CwqIUJVV.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_payload.json.6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/B1EuAbtp.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/G7bWRq_-.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/6qCihK2t.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/C3xtzW4p.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/BNit2_FZ.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CCE6Thls.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/builds/meta/6cafb688-5f4e-4650-bdab-eafdd03f96b2.json",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/index-B5Qt9EMX.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/valentimeLogo.svg",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/soundOn.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ir5KDkeN.js",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ProximaNovaExCn-Light.BAeW1Xzc.woff2",
+    "resourceType": "font",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/index.CsZR0Mp6.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/fav.png",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/btn-texture.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/hdri/hdri3.hdr",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/sliderTouch.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/undo.svg",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/removeStickers.svg",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/activeRam.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat1.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat2.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat3.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat4.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat5.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat6.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat7.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat8.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/audio/glass.mp3",
+    "resourceType": "media",
+    "status": 206
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/audio/back.mp3",
+    "resourceType": "media",
+    "status": 206
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/audio/sticker.mp3",
+    "resourceType": "media",
+    "status": 206
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/audio/Heartcollidesound.mp3",
+    "resourceType": "media",
+    "status": 206
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/luts/Bourbon%2064.CUBE",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/water/water0399normal.jpg",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/normal/marble_normal_1_Nero_Compress_Low.jpg",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/startsObjects7.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_wasm_wrapper.js",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_decoder.wasm",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/521505b8-ebab-4845-adfb-a39d580d4008",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/521505b8-ebab-4845-adfb-a39d580d4008",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/521505b8-ebab-4845-adfb-a39d580d4008",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/521505b8-ebab-4845-adfb-a39d580d4008",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pen2.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/objectsOnGlass5.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CvF8Hw0l.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/about.CaXwnLIb.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CgyLXLxj.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/contacts.D6FYzDJK.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/_payload.json?6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand1n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand2n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand3n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand4n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pillarsNw.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/mount.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/small.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/cellHeart3.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalObjectsNew.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalHeartSeparate.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flowTest.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flo.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/soundOff.png",
+    "resourceType": "image",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/",
+    "resourceType": "document",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/entry.CIFBCrbr.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/default.ClAWie6-.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/preloader.CwqIUJVV.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_payload.json.6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/B1EuAbtp.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/G7bWRq_-.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/6qCihK2t.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/C3xtzW4p.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/BNit2_FZ.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CCE6Thls.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/builds/meta/6cafb688-5f4e-4650-bdab-eafdd03f96b2.json",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/index-B5Qt9EMX.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/valentimeLogo.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/soundOn.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ir5KDkeN.js",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ProximaNovaExCn-Light.BAeW1Xzc.woff2",
+    "resourceType": "font",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/fav.png",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/index.CsZR0Mp6.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/undo.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/removeStickers.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/activeRam.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat1.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat2.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat3.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat4.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat5.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat6.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat7.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat8.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/btn-texture.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/hdri/hdri3.hdr",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/sliderTouch.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/luts/Bourbon%2064.CUBE",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/water/water0399normal.jpg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/normal/marble_normal_1_Nero_Compress_Low.jpg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/startsObjects7.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CvF8Hw0l.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/about.CaXwnLIb.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CgyLXLxj.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/contacts.D6FYzDJK.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/_payload.json?6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_wasm_wrapper.js",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_decoder.wasm",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/d42fa9d7-3116-4add-9f5a-118aa3cc6ed9",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/d42fa9d7-3116-4add-9f5a-118aa3cc6ed9",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/d42fa9d7-3116-4add-9f5a-118aa3cc6ed9",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/d42fa9d7-3116-4add-9f5a-118aa3cc6ed9",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pen2.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/objectsOnGlass5.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand1n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand2n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand3n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand4n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pillarsNw.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/mount.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/small.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/cellHeart3.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalObjectsNew.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalHeartSeparate.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flowTest.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flo.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/",
+    "resourceType": "document",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/entry.CIFBCrbr.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/default.ClAWie6-.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/preloader.CwqIUJVV.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_payload.json.6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/B1EuAbtp.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/G7bWRq_-.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/6qCihK2t.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/C3xtzW4p.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/BNit2_FZ.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CCE6Thls.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/builds/meta/6cafb688-5f4e-4650-bdab-eafdd03f96b2.json",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/index-B5Qt9EMX.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/valentimeLogo.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/soundOn.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ir5KDkeN.js",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/ProximaNovaExCn-Light.BAeW1Xzc.woff2",
+    "resourceType": "font",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/fav.png",
+    "resourceType": "other",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/index.CsZR0Mp6.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/undo.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/icons/removeStickers.svg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/activeRam.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat1.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat2.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat3.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat4.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat5.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat6.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat7.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/materials/mat8.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/btn-texture.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/hdri/hdri3.hdr",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/images/sliderTouch.png",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/luts/Bourbon%2064.CUBE",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/water/water0399normal.jpg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/textures/normal/marble_normal_1_Nero_Compress_Low.jpg",
+    "resourceType": "image",
+    "status": 304
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/startsObjects7.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_wasm_wrapper.js",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/draco_decoder.wasm",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/5b402a7b-3e38-44e3-b40a-d11266177d8f",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/5b402a7b-3e38-44e3-b40a-d11266177d8f",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/5b402a7b-3e38-44e3-b40a-d11266177d8f",
+    "resourceType": "script"
+  },
+  {
+    "method": "GET",
+    "url": "blob:http://127.0.0.1:4173/5b402a7b-3e38-44e3-b40a-d11266177d8f",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CvF8Hw0l.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/about.CaXwnLIb.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/CgyLXLxj.js",
+    "resourceType": "script",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/_nuxt/contacts.D6FYzDJK.css",
+    "resourceType": "stylesheet",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/_payload.json?6cafb688-5f4e-4650-bdab-eafdd03f96b2",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pen2.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/objectsOnGlass5.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand1n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand2n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand3n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/iskand4n.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/pillarsNw.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/mount.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/small.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/cellHeart3.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalObjectsNew.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/finalHeartSeparate.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flowTest.glb",
+    "resourceType": "fetch",
+    "status": 200
+  },
+  {
+    "method": "GET",
+    "url": "http://127.0.0.1:4173/assets/models/flo.glb",
+    "resourceType": "fetch",
+    "status": 200
+  }
+]

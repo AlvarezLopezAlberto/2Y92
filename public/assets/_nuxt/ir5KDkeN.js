@@ -1,0 +1,1 @@
+import{P as o}from"./C3xtzW4p.js";import{f as t,c as s,o as r,be as a,d as c}from"./B1EuAbtp.js";import"./BNit2_FZ.js";const n={class:"def"},f=t({__name:"custom",setup(d){return(e,m)=>(r(),s("div",n,[a(e.$slots,"default"),c(o)]))}});export{f as default};

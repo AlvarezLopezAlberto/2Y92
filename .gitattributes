@@ -1,0 +1,13 @@
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.mp3 binary
+*.glb binary
+*.gltf text eol=lf
+*.wasm binary
+*.hdr binary
+*.otf binary
+*.woff2 binary
+*.CUBE text eol=lf

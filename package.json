@@ -1,0 +1,22 @@
+{
+  "name": "valentime-local-reconstruction",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local archival reconstruction of the public Noomo Valentime experience.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "mirror": "node tools/mirror.mjs",
+    "capture:remote": "node tools/capture.mjs remote",
+    "capture:local": "node tools/capture.mjs local",
+    "compare": "node tools/compare-screenshots.mjs"
+  },
+  "dependencies": {
+    "vite": "^6.3.2"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}
