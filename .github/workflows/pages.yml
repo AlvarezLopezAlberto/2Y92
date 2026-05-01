@@ -27,17 +27,29 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: M4F3/package-lock.json
 
       - name: Install dependencies
+        working-directory: M4F3
         run: npm ci
 
-      - name: Build Pages artifact
+      - name: Build M4F3 Pages artifact
+        working-directory: M4F3
+        env:
+          PAGES_BASE_PATH: /2Y92/M4F3
         run: npm run build:pages
+
+      - name: Assemble Pages artifact
+        run: |
+          mkdir -p pages-artifact/M4F3
+          cp index.html script.js styles.css serve.js pages-artifact/
+          touch pages-artifact/.nojekyll
+          cp -R M4F3/dist/. pages-artifact/M4F3/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: pages-artifact
 
   deploy:
     runs-on: ubuntu-latest

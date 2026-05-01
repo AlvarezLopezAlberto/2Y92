@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const distDir = path.resolve('dist');
-const basePath = (process.env.PAGES_BASE_PATH || '/2Y92').replace(/\/+$/, '');
+const basePath = (process.env.PAGES_BASE_PATH || '/2Y92/M4F3').replace(/\/+$/, '');
 const textExtensions = new Set(['.css', '.html', '.js', '.json', '.svg', '.txt', '.webmanifest']);
 
 function* walk(dir) {
