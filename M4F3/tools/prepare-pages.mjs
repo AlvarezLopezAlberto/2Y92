@@ -25,11 +25,16 @@ for (const filePath of walk(distDir)) {
 
   const original = fs.readFileSync(filePath, 'utf8');
   const updated = original
+    .replaceAll('/assets/', `${basePath}/assets/`)
     .replaceAll('"/assets/', `"${basePath}/assets/`)
     .replaceAll("'/assets/", `'${basePath}/assets/`)
     .replaceAll('`/assets/', `\`${basePath}/assets/`)
     .replaceAll('url(/assets/', `url(${basePath}/assets/`)
-    .replaceAll('=/assets/', `=${basePath}/assets/`);
+    .replaceAll('=/assets/', `=${basePath}/assets/`)
+    .replace(
+      /const ([A-Za-z_$][\w$]*)=\{"Bourbon 64\.CUBE":null,"Chemical 168\.CUBE":null,"Clayton 33\.CUBE":null,"Cubicle 99\.CUBE":null,"Remy 24\.CUBE":null,"Presetpro-Cinematic\.3dl":null,NeutralLUT:null,"B&WLUT":null,NightLUT:null\}/g,
+      'const $1={"Bourbon 64.CUBE":null}'
+    );
 
   if (updated !== original) {
     fs.writeFileSync(filePath, updated);
